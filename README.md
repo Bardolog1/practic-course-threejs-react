@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![image](https://github.com/Bardolog1/practic-course-threejs/assets/64260884/0ac9ec75-0d6a-40b3-be63-124e5355d17b)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
